@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+ margin-top: 0;
+}
+.upper {
+    background-color: #cffffe;
+    top height: 100%;
+    
+}
+.profile {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    position: absolute;
+    left: 20px;
+    top: 220px;
+}
+.dot {
+   border-style: dotted;
+    border-top: none;
+    width: 5%;
+    border-width: 7px;
+}
+.things {
+    position: absolute;
+    left: 550px;
+}
+.web {
+    position: absolute;
+    left: 570px;
+    top: 430px;
+}
+.double {
+    border-style: double;
+    border-width: 10%;
+    width: 50%;
+}
+.middle {
+    background-color: #ffefa0;
+    height: 340px;
+}
+.pic1 {
+    position: absolute;
+    top: 1000px;
+}
+.development {
+    
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    top: 580px;
+    left: 200px;
+}
+.design {
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    top: 580px;
+    right: 200px;
+}
+.pic1 {
+    position: absolute;
+    top: 900px; 
+    left: 350px;
+}
+.pic2 {
+    position: absolute;
+    top: 900px; 
+    right: 350px;   
+}
+.bottom {
+    background-color:  #cffffe;
+    height: 500px;
+    margin: 0;
+}
+.last {
+    background-color: #ffefa0;
+    height: 80px;   
+}
+
+.page2{
+    border-style: dotted;
+    width: 10%;
+    border-width: 10px;
+    border-top: none;
+
+}
+.page3 {
+    border-style: dotted;
+    width: 6%;
+    border-width: 10px;
+    border-top: none;   
+}
+.page4 {
+    border-style: dotted;
+    width: 2%;
+    border-width: 10px;
+    border-top: none;   }
+.contact {
+    background-color: #ffefa0;
+    height: 300px;
+}
+.form {
+    background-color:  #cffffe; 
+}
+h1 {
+font-family: 'Permanent Marker', cursive;
+}
+
+h4 {
+    font-family: 'Lobster', cursive;
+}
+h2 {
+    font-family: 'Kaushan Script', cursive
+}
+h3 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+h5 {
+    font-family: 'Kaushan Script', cursive   
+}
